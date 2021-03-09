@@ -1,9 +1,6 @@
 # To-Study
 ## A checklist of links for tutorials and readings of HYF
 
-!<---You don't need to learn all of this, it's _a lot_ of links.
-These links will always be here for you when you need them in the future.-->
-
 ### User Experience and User Interfaces
 
 <details>
